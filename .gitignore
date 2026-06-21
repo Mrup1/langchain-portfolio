@@ -1,0 +1,12 @@
+# Security: NEVER push API keys
+.env
+
+# Virtual Environments (too large and system-specific)
+venv/
+
+# Python Cache files
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/

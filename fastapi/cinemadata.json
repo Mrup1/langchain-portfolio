@@ -1,0 +1,102 @@
+{
+  "B001": {
+    "customer_name": "subahn",
+    "movie_title": "batamn",
+    "theater_name": "PVR Cinemas",
+    "showtime": "7:30 PM",
+    "seat_number": "A12",
+    "ticket_price": 350.0,
+    "booking_date": "2024-02-15",
+    "payment_status": "Confirmed"
+  },
+  "B002": {
+    "customer_name": "Ravi Mehta",
+    "movie_title": "RRR",
+    "theater_name": "INOX Theater",
+    "showtime": "9:15 PM",
+    "seat_number": "B8",
+    "ticket_price": 280.0,
+    "booking_date": "2024-02-16",
+    "payment_status": "Pending"
+  },
+  "B003": {
+    "customer_name": "Sneha Kulkarni",
+    "movie_title": "Brahmastra",
+    "theater_name": "Cinepolis",
+    "showtime": "6:00 PM",
+    "seat_number": "C15",
+    "ticket_price": 320.0,
+    "booking_date": "2024-02-17",
+    "payment_status": "Confirmed"
+  },
+  "B004": {
+    "customer_name": "Arjun Verma",
+    "movie_title": "Spider-Man: No Way Home",
+    "theater_name": "Carnival Cinemas",
+    "showtime": "8:45 PM",
+    "seat_number": "D10",
+    "ticket_price": 400.0,
+    "booking_date": "2024-02-18",
+    "payment_status": "Confirmed"
+  },
+  "B005": {
+    "customer_name": "Neha Sinha",
+    "movie_title": "KGF Chapter 2",
+    "theater_name": "Big Cinemas",
+    "showtime": "7:00 PM",
+    "seat_number": "E7",
+    "ticket_price": 250.0,
+    "booking_date": "2024-02-19",
+    "payment_status": "Cancelled"
+  },
+  "B006": {
+    "customer_name": "Vikash Kumar",
+    "movie_title": "Pathaan",
+    "theater_name": "PVR Cinemas",
+    "showtime": "4:30 PM",
+    "seat_number": "F5",
+    "ticket_price": 300.0,
+    "booking_date": "2024-02-20",
+    "payment_status": "Confirmed"
+  },
+  "B007": {
+    "customer_name": "Priya Sharma",
+    "movie_title": "Gangubai Kathiawadi",
+    "theater_name": "INOX Theater",
+    "showtime": "10:00 PM",
+    "seat_number": "G20",
+    "ticket_price": 275.0,
+    "booking_date": "2024-02-21",
+    "payment_status": "Confirmed"
+  },
+  "B008": {
+    "customer_name": "Rohit Singh",
+    "movie_title": "The Kashmir Files",
+    "theater_name": "Miraj Cinemas",
+    "showtime": "5:45 PM",
+    "seat_number": "H14",
+    "ticket_price": 220.0,
+    "booking_date": "2024-02-22",
+    "payment_status": "Pending"
+  },
+  "B009": {
+    "customer_name": "Kavya Nair",
+    "movie_title": "83",
+    "theater_name": "Cinepolis",
+    "showtime": "8:00 PM",
+    "seat_number": "I9",
+    "ticket_price": 340.0,
+    "booking_date": "2024-02-23",
+    "payment_status": "Confirmed"
+  },
+  "B010": {
+    "customer_name": "Amit Patel",
+    "movie_title": "Sooryavanshi",
+    "theater_name": "Fun Republic",
+    "showtime": "3:00 PM",
+    "seat_number": "J6",
+    "ticket_price": 290.0,
+    "booking_date": "2024-02-24",
+    "payment_status": "Confirmed"
+  }
+}

@@ -1,0 +1,17 @@
+{
+    "name": null,
+    "input_variables": [
+        "length",
+        "paper",
+        "style"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "Write a {length} research paper on {paper} in {style} style.",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}

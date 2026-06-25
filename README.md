@@ -8,7 +8,11 @@ A multi-purpose advanced AI portfolio repository showcasing state-of-the-art con
 A production-ready, context-aware RAG (Retrieval-Augmented Generation) application built with Python. This application allows users to input any YouTube video URL, automatically extracts its transcript, chunks and embeds the data locally using HuggingFace models, and indexes it into a high-performance FAISS vector store. Users can then dynamically chat with the video's content using Llama-3 with full session state conversational memory.
 
 ### 🎥 Live Demo (YouTube Q&A)
-<video src="demo.mov" width="100%" controls></video>
+
+[👉 Click Here to Watch the Live Demo Video!](demo.mov)
+
+
+
 
 ### 🚀 Key Features
 - **Instant Transcript Extraction:** Leverages `youtube-transcript-api` to pull raw video data dynamically.
@@ -21,7 +25,11 @@ A production-ready, context-aware RAG (Retrieval-Augmented Generation) applicati
 ---
 
 ## 🧠 Application 2: Dual-Brain Psychology Chatbot
-A Python-based chatbot that helps users explore their emotional patterns using the Dual Brain Psychology (DBP) framework. This project supports both command-line (CLI) and API (FastAPI) usage, integrates LLMs (OpenAI/Google), and provides entity extraction and brain profile analysis.
+A Python-based chatbot that helps users explore their emotional patterns using the Dual Brain Psychology (DBP) framework. This project supports both command-line (CLI)
+
+
+
+ and API (FastAPI) usage, integrates LLMs (OpenAI/Google), and provides entity extraction and brain profile analysis.
 
 ### 🚀 Key Features
 - **Empathetic DBP Dialogue:** All bot responses are grounded in Fred Schiffer’s Dual Brain Psychology, avoiding clinical or diagnostic language.

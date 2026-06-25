@@ -9,7 +9,7 @@ A production-ready, context-aware RAG (Retrieval-Augmented Generation) applicati
 
 ### 🎥 Live Demo (YouTube Q&A)
 
-[👉 Click Here to Watch the Live Demo Video!](demo.mov)
+[👉 Click Here to Watch the Live Demo Video!](https://github.com/Mrup1/langchain-portfolio/raw/main/demo.mov)
 
 
 
